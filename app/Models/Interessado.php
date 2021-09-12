@@ -8,6 +8,7 @@ class Interessado extends Model
 {
     protected $table = 'interessados';
 
+
     protected $fillable = [
         'nome',
         'email'
